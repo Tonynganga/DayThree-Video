@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556315347816",
+    "project_id": "daythree-video",
+    "storage_bucket": "daythree-video.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556315347816:android:edb871f716234b9be0e4dd",
+        "android_client_info": {
+          "package_name": "com.tony.daythree_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556315347816-far8k8mgtkeflhgib3s1tud7fb7oo38u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUE3b6-_vhKhNSk8mIPETD11-FWKFSCEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556315347816-far8k8mgtkeflhgib3s1tud7fb7oo38u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
